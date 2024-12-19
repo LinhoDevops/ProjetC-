@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiWithDoWhile/1.0.0": {
+        "runtime": {
+          "MultiWithDoWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiWithDoWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

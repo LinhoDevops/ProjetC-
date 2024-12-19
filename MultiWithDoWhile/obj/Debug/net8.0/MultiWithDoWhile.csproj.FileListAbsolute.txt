@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\bin\Debug\net8.0\MultiWithDoWhile.exe
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\bin\Debug\net8.0\MultiWithDoWhile.deps.json
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\bin\Debug\net8.0\MultiWithDoWhile.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\bin\Debug\net8.0\MultiWithDoWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\bin\Debug\net8.0\MultiWithDoWhile.pdb
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\refint\MultiWithDoWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.pdb
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\MultiWithDoWhile.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiWithDoWhile\obj\Debug\net8.0\ref\MultiWithDoWhile.dll

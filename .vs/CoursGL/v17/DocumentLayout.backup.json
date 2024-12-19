@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{444002E5-327B-48C6-AA1C-7061DE50D15F}|Assurance\\Assurance.csproj|c:\\users\\admin\\source\\repos\\coursgl\\assurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444002E5-327B-48C6-AA1C-7061DE50D15F}|Assurance\\Assurance.csproj|solutionrelative:assurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06E74DA-95AB-45EC-868F-9A088AD10041}|Factorielle\\Factorielle.csproj|c:\\users\\admin\\source\\repos\\coursgl\\factorielle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06E74DA-95AB-45EC-868F-9A088AD10041}|Factorielle\\Factorielle.csproj|solutionrelative:factorielle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C08CC7-473F-4CFB-9507-027713266381}|CoursGL\\CoursGL.csproj|c:\\users\\admin\\source\\repos\\coursgl\\coursgl\\exo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C08CC7-473F-4CFB-9507-027713266381}|CoursGL\\CoursGL.csproj|solutionrelative:coursgl\\exo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47983C27-123D-4A7D-B83C-B68A2A7FA81A}|MultiplicationWithWhile\\MultiplicationWithWhile.csproj|c:\\users\\admin\\source\\repos\\coursgl\\multiplicationwithwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47983C27-123D-4A7D-B83C-B68A2A7FA81A}|MultiplicationWithWhile\\MultiplicationWithWhile.csproj|solutionrelative:multiplicationwithwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC365D-7D65-486B-AECF-4071F7E2EAC2}|MultiWithDoWhile\\MultiWithDoWhile.csproj|c:\\users\\admin\\source\\repos\\coursgl\\multiwithdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC365D-7D65-486B-AECF-4071F7E2EAC2}|MultiWithDoWhile\\MultiWithDoWhile.csproj|solutionrelative:multiwithdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080F381C-2895-42BC-811B-16B76B71F78A}|TableMultiplication\\TableMultiplication.csproj|c:\\users\\admin\\source\\repos\\coursgl\\tablemultiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080F381C-2895-42BC-811B-16B76B71F78A}|TableMultiplication\\TableMultiplication.csproj|solutionrelative:tablemultiplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D66A5-71A2-4EAD-8DBA-D1D0F4F9FF75}|Appreciation\\Appreciation.csproj|c:\\users\\admin\\source\\repos\\coursgl\\appreciation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D66A5-71A2-4EAD-8DBA-D1D0F4F9FF75}|Appreciation\\Appreciation.csproj|solutionrelative:appreciation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Assurance\\Program.cs",
+              "RelativeDocumentMoniker": "Assurance\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Assurance\\Program.cs*",
+              "RelativeToolTip": "Assurance\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:01:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\MultiWithDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "MultiWithDoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\MultiWithDoWhile\\Program.cs",
+              "RelativeToolTip": "MultiWithDoWhile\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:53:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\MultiplicationWithWhile\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplicationWithWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\MultiplicationWithWhile\\Program.cs",
+              "RelativeToolTip": "MultiplicationWithWhile\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:50:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\TableMultiplication\\Program.cs",
+              "RelativeDocumentMoniker": "TableMultiplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\TableMultiplication\\Program.cs",
+              "RelativeToolTip": "TableMultiplication\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:35:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Appreciation\\Program.cs",
+              "RelativeDocumentMoniker": "Appreciation\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Appreciation\\Program.cs",
+              "RelativeToolTip": "Appreciation\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:11:02.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Factorielle\\Program.cs",
+              "RelativeDocumentMoniker": "Factorielle\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\Factorielle\\Program.cs",
+              "RelativeToolTip": "Factorielle\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:12:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exo1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\CoursGL\\Exo1.cs",
+              "RelativeDocumentMoniker": "CoursGL\\Exo1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CoursGL\\CoursGL\\Exo1.cs",
+              "RelativeToolTip": "CoursGL\\Exo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:24:57.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

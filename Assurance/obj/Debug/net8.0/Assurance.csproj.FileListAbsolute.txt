@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\bin\Debug\net8.0\Assurance.exe
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\bin\Debug\net8.0\Assurance.deps.json
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\bin\Debug\net8.0\Assurance.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\bin\Debug\net8.0\Assurance.dll
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\bin\Debug\net8.0\Assurance.pdb
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.dll
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\refint\Assurance.dll
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.pdb
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\Assurance.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CoursGL\Assurance\obj\Debug\net8.0\ref\Assurance.dll

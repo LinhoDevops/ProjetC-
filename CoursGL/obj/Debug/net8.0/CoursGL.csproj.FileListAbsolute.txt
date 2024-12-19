@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\bin\Debug\net8.0\CoursGL.exe
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\bin\Debug\net8.0\CoursGL.deps.json
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\bin\Debug\net8.0\CoursGL.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\bin\Debug\net8.0\CoursGL.dll
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\bin\Debug\net8.0\CoursGL.pdb
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.dll
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\refint\CoursGL.dll
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.pdb
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\CoursGL.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CoursGL\CoursGL\obj\Debug\net8.0\ref\CoursGL.dll

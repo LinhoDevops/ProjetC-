@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\bin\Debug\net8.0\MultiplicationWithWhile.exe
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\bin\Debug\net8.0\MultiplicationWithWhile.deps.json
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\bin\Debug\net8.0\MultiplicationWithWhile.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\bin\Debug\net8.0\MultiplicationWithWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\bin\Debug\net8.0\MultiplicationWithWhile.pdb
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\refint\MultiplicationWithWhile.dll
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.pdb
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\MultiplicationWithWhile.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CoursGL\MultiplicationWithWhile\obj\Debug\net8.0\ref\MultiplicationWithWhile.dll

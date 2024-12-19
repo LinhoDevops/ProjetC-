@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\bin\Debug\net8.0\Appreciation.exe
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\bin\Debug\net8.0\Appreciation.deps.json
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\bin\Debug\net8.0\Appreciation.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\bin\Debug\net8.0\Appreciation.dll
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\bin\Debug\net8.0\Appreciation.pdb
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.dll
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\refint\Appreciation.dll
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.pdb
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\Appreciation.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\CoursGL\Appreciation\obj\Debug\net8.0\ref\Appreciation.dll
